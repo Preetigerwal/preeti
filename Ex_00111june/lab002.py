@@ -1,0 +1,5 @@
+print('hey preeti', "90", "32", "5.3", "femail", sep="-")
+print("hello preeti how r u", sep="-", end=" ")
+print("hello preeti how old r u")
+print("i m  a moodi person", end="-")
+print("but i am a good person")
